@@ -20,17 +20,10 @@ I am a **Computer Science** engineer, who likes to build stuff and learn new thi
 - 📫 Reach out to me at: <a href="navtej9898@gmail.com">navtej9898@gmail.com</a>
 <br>
 
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ALX-13&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>     
-
 <!-- Social Links -->
 <div align="center">
-  <a href="mailto:leonardobravoricapa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/leonardo-bravo-4120b8228/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="mailto:navtej9898@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/navtej--singh/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
 
 </div>
 
@@ -55,8 +48,6 @@ I am a **Computer Science** engineer, who likes to build stuff and learn new thi
 ###### Backend & Frameworks:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
-![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ###### Deployment & Cloud Services:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
@@ -65,15 +56,14 @@ I am a **Computer Science** engineer, who likes to build stuff and learn new thi
 <!-- #### ML/DL -->
 
 ###### Database Management:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ###### Development Tools:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+
 
 
 <br>
