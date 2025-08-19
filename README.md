@@ -4,7 +4,7 @@
 
 ## 🌈 Skills
 
-<a href="https://zachnguyen.com/t"><img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="img/t.gif" /></a>
+<a href="https://camo.githubusercontent.com/6d058e2c4141aba6cae254826e08b8097503ccfc69fda275bc047899e4a82d56/68747470733a2f2f6d656469612e74656e6f722e636f6d2f585034747739503179466f414141414d2f6465647365632e676966"><img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="img/t.gif" /></a>
 
 ### Programming languages
 
