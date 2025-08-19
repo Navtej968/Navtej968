@@ -16,7 +16,7 @@ I am a **Computer Science** engineer, who likes to build stuff and learn new thi
   - *SOQL*
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
-- Outside tech, I enjoy Video gaming , Esports , travelling and  music.
+- Outside tech, I enjoy Video gaming , Esports , travelling and  making music.
 - 📫 Reach out to me at: <a href="navtej9898@gmail.com">navtej9898@gmail.com</a>
 <br>
 
