@@ -68,4 +68,6 @@ I am a **Computer Science** engineer, who likes to build stuff and learn new thi
 
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=navtej968&label=Profile%20views&color=0e75b6&style=flat" alt="navtej968" /> </p>
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
